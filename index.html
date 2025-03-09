@@ -11,20 +11,12 @@
         href="https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/small.css">
+    <link rel="stylesheet" media="screen and (min-width: 500px)" href="styles/larger.css">
 </head>
 
 <body>
     <header>
-
-        <div class="off-screen ">
-            <ul>
-                <li>Home</li>
-                <li>Chamber</li>
-                <li>Github</li>
-                <li>LinkedIn</li>
-            </ul>
-        </div>
         <nav>
             <div id="img_container">
                 <img src="images/856D12DC-94D7-42BE-95B4-A4387C331CB9.jpg" alt="photo of augustus wearing a hat">
@@ -38,51 +30,70 @@
                 <span></span>
             </div>
         </nav>
+        <div class="off-screen ">
+            <ul>
+                <li class="current"><a href="">Home</a></li>
+                <li><a href="">Chamber</a></li>
+                <li><a href="">Github Profile</a></li>
+                <li><a href="">LinkedIn</a></li>
+            </ul>
+        </div>
     </header>
     <main>
         <h1>Home</h1>
+        <section class="module-container">
+            <section class="module course-work">
+                <div class="module-head">
+                    <h2>Course Work</h2>
+                </div>
+                <div class="mod-content">
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </section>
+            <section class="module pohnpei">
+                <div class="module-head">
+                    <h2>Pohnpei, Micronesia</h2>
+                </div>
+                <div class="mod-content">
+                    <img src="images/pohnpei1-jpg.webp"
+                        alt="photo of Nan Madol Ruins located in Madolenihmw, Pohnpei in the FSM.">
+                    <p>Nan Madol Ruins</p>
+                </div>
+            </section>
+            <section class="module cert">
+                <div class="module-head">
+                    <h2>Web & Computer Programming Certificate</h2>
+                </div>
+                <div class="mod-content">
+                    <div class="cert-menu">
+                        <button class="cert-btn all">ALL</button>
+                        <button class="cert-btn cse">CSE</button>
+                        <button class="cert-btn wdd">WDD</button>
+                    </div>
+                    <div class="cert-courses">
+                    </div>
+                </div>
+            </section>
+        </section>
 
-        <section class="module course-work">
-            <div class="module-head">
-                <h2>Course Work</h2>
-            </div>
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
-        </section>
-        <section class="module pohnpei">
-            <div class="module-head">
-                <h2>Pohnpei, Micronesia</h2>
-            </div>
-            <div id="pohnpei-content">
-                <img src="images/pohnpei1-jpg.webp"
-                    alt="photo of Nan Madol Ruins located in Madolenihmw, Pohnpei in the FSM.">
-                <p>Nan Madol Ruins</p>
-            </div>
-        </section>
-        <section class="module cert">
-            <div class="module-head">
-                <h2>Web & Computer Programming Certificate</h2>
-            </div>
-            <div class="cert-menu">
-                <button class="cert-btn">ALL</button>
-                <button class="cert-btn">CSE</button>
-                <button class="cert-btn">WDD</button>
-            </div>
-            <div class="cert-courses">
-                <div class="course">CSE 110</div>
-                <div class="course">WDD 130</div>
-                <div class="course">CSE 111</div>
-                <div class="course">CSE 210</div>
-                <div class="course">WDD 131</div>
-                <div class="course">WDD 231</div>
-            </div>
-        </section>
     </main>
-    <footer></footer>
-    <script src="scripts/app.js"></script>
+    <footer>
+        <div id="name-copy">
+            <p>©<span id="copyright"></span></p>
+            <p>♔ Augustus Yuki Yakana ♔</p>
+            <p>Micronesia 🇫🇲</p>
+        </div>
+
+
+        <p>Last Update: <span id="last-update"></span></p>
+    </footer>
+    <script src="scripts/nav.js" defer></script>
+    <script src="scripts/course.js" defer></script>
+    <script src="scripts/date.js"></script>
 </body>
 
 </html>

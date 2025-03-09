@@ -1,0 +1,114 @@
+#img_container {
+    width: 10rem;
+}
+
+#name span {
+    font-size: 3rem;
+
+}
+
+.ham-menu {
+    display: none;
+}
+
+.off-screen {
+    right: 0;
+    position: relative;
+    width: 100%;
+    max-width: none;
+    height: 3.5rem;
+    transition: none;
+
+}
+
+.off-screen ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    width: 100%;
+    align-content: center;
+}
+
+.off-screen ul li:hover {
+
+    text-shadow: 3px 3px 10px gold;
+
+}
+
+.current {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.module-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+.module {
+    box-shadow: 5px 5px 50px black;
+}
+
+.course-work {
+    grid-column: 1/3;
+}
+
+.pohnpei {
+    grid-column: 3/4;
+}
+
+.cert {
+    grid-column: 1/4;
+}
+
+.pohnpei,
+.cert {
+    margin-top: 0;
+}
+
+.cert-menu {
+    border-bottom: 1px solid grey;
+    max-width: 99.1%;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.mod-content img {
+    width: 80%;
+
+}
+
+.cert-menu button {
+    width: 10%;
+    margin-bottom: 0.5rem;
+}
+
+.cert-menu button:hover {
+    box-shadow: 3px 3px 10px gold;
+}
+
+.cert-courses {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+}
+
+.cert {
+    height: 13rem;
+}
+
+footer {
+    font-size: 1.2rem;
+    padding: 0.2rem;
+}
+
+#name-copy {
+    display: flex;
+    gap: 1rem;
+}
+
+.pohnpei img:hover {
+    transform: rotate(5deg);
+    transition: 1s ease;
+}
