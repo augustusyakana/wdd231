@@ -136,6 +136,19 @@ main {
     margin-top: 2rem;
 }
 
+.course-work ul {
+    text-align: left;
+}
+
+.course-work ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.course-work ul a:hover {
+    text-shadow: 3px 3px 5px black;
+}
+
 .module-head {
     width: 100%;
     background-color: rgb(34, 37, 49);
