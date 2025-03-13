@@ -6,13 +6,13 @@ body {
 
 nav img {
     width: 100%;
-    border-radius: 25px;
+    transform: scale(1.27);
 }
 
 #img_container {
     display: block;
     width: 5rem;
-    padding: .2em;
+    text-align: left;
 }
 
 nav {
