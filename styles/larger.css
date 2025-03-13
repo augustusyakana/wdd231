@@ -18,7 +18,9 @@
     max-width: none;
     height: 3.5rem;
     transition: none;
-
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom: 6px solid gold;
 }
 
 .off-screen ul {
@@ -111,4 +113,10 @@ footer {
 .pohnpei img:hover {
     transform: rotate(5deg);
     transition: 1s ease;
+}
+
+footer {
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-top: 6px solid gold;
 }
