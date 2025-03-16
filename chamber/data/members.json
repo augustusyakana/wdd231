@@ -1,0 +1,88 @@
+{
+    "members": [
+        {
+            "name": "Kaselel Web Services",
+            "address": "P.O. Box 222",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2222",
+            "website": "https://www.kaselelweb.fm",
+            "logo": "images/kws.PNG",
+            "membership": "Elite Member"
+        },
+        {
+            "name": "Whyme's Goods",
+            "address": "P.O. Box 223",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2223",
+            "website": "https://www.whymesgoods.fm",
+            "logo": "images/whyme.PNG",
+            "membership": "Elite Member"
+        },
+        {
+            "name": "Aurora Hardware",
+            "address": "P.O. Box 221",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2221",
+            "website": "https://www.aurorahardware.fm",
+            "logo": "images/aurora.PNG",
+            "membership": "Basic Member"
+        },
+        {
+            "name": "Kimokoa Office Supplies",
+            "address": "P.O. Box 224",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2224",
+            "website": "https://www.kimooffice.fm",
+            "logo": "images/kimo.PNG",
+            "membership": "Standard Member"
+        },
+        {
+            "name": "Kayni's Appliances",
+            "address": "P.O. Box 225",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2225",
+            "website": "https://www.kaynis.fm",
+            "logo": "images/kayni.PNG",
+            "membership": "Basic Member"
+        },
+        {
+            "name": "Legend Motors",
+            "address": "P.O. Box 226",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2226",
+            "website": "https://www.legendmotors.fm",
+            "logo": "images/legend.PNG",
+            "membership": "Premium Member"
+        },
+        {
+            "name": "Prince Global",
+            "address": "P.O. Box 227",
+            "city": "Kolonia",
+            "state": "Pohnpei",
+            "country": "FSM",
+            "zip": "96941",
+            "phone": "(691) 320 2227",
+            "website": "https://www.princeglobal.fm",
+            "logo": "images/prince.PNG",
+            "membership": "Standard Member"
+        }
+    ]
+}

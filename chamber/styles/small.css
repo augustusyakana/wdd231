@@ -33,7 +33,7 @@ nav {
 }
 
 .off-screen {
-    background-color: rgb(255, 77, 0);
+    background-color: rgba(255, 77, 0, 0.95);
     width: 100%;
     max-width: 300px;
     height: 100vh;
@@ -119,4 +119,158 @@ nav {
     top: 50%;
 
     transform: translate(-50%, 50%) rotate(-45deg);
+}
+
+.grid {
+    padding: 1rem;
+    gap: 1rem;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.grid .card {
+    background-color: rgb(255, 77, 0);
+
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 3px 5px 10px grey;
+    padding: 0.5rem;
+}
+
+.grid .card:hover {
+    transform: scale(1.02);
+    transition: .5s ease-in-out;
+}
+
+.grid .card .member-level {
+    background-color: orange;
+    padding: 0.5rem;
+
+    border-radius: 25px;
+}
+
+.company-card-container .card img {
+    width: 5rem;
+    margin-bottom: -1rem;
+}
+
+.grid .card p:nth-child(4) {
+    color: blue;
+    text-decoration: underline;
+}
+
+.list .card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black;
+    background-color: rgb(255, 77, 0);
+
+    /* box-shadow: 3px 5px 10px black; */
+
+}
+
+.list .card .img-cont img {
+    width: 80%;
+    margin-top: -1.5rem
+}
+
+.list .card .img-cont {
+    width: 6rem;
+    height: 6rem;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+}
+
+.list .card h3 {
+    margin-top: -1rem
+}
+
+.list .card:nth-child(1) {
+    border-top: 1px solid black;
+}
+
+.list .card .member-level {
+    display: none;
+}
+
+.list .card .member-website {
+    color: blue;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: rgb(34, 37, 49);
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    margin: 0;
+}
+
+.socials {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.company-info-foot {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.company-info-foot p {
+    margin-top: -0.5rem;
+}
+
+.current {
+    font-weight: bolder;
+}
+
+
+
+#name-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#name-copy p:nth-child(2),
+#name-copy p:nth-child(3) {
+    margin-top: -.5rem;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+
+    gap: 1rem;
+}
+
+.btns img {
+    cursor: pointer;
+}
+
+.btns img:nth-child(1) {
+    width: 2rem;
+}
+
+.btns img:nth-child(2) {
+    width: 3rem;
+}
+
+.socials img:hover {
+    transform: scale(1.06);
+    transition: .5s ease;
 }

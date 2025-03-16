@@ -1,0 +1,69 @@
+#img_container {
+    width: 10rem;
+}
+
+#name span {
+    font-size: 3rem;
+
+}
+
+#img_container img {
+    margin-left: 2rem;
+}
+
+.ham-menu {
+    display: none;
+}
+
+.off-screen {
+    right: 0;
+    width: 100%;
+    position: relative;
+    max-width: none;
+    box-sizing: border-box;
+    height: 3.5rem;
+    transition: none;
+}
+
+.list .card {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.off-screen ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    width: 90%;
+    align-content: center;
+}
+
+.off-screen ul li:hover {
+
+    text-shadow: 3px 3px 10px gold;
+
+}
+
+.current {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.socials {
+    width: 15rem;
+    flex-wrap: wrap;
+    gap: 2rem;
+
+
+}
+
+.socials img {
+    width: 2.5rem;
+}
