@@ -12,7 +12,7 @@ This repository contains coursework, assignments, and projects for CSE 231: Web 
 * This course builds a strong foundation for web development, preparing students to create functional and visually appealing websites.
 
 # Live Demo(s)
-- Course Homepage includes all coursework and projects for this project: https://augustusyakana.github.io/wdd231/
+- Course Homepage includes all coursework and projects for this course: https://augustusyakana.github.io/wdd231/
 * Some projects have not been added to home page as part of the class curriculum, would be added later.
 - Projects not linked in home page:
   1. Chamber Directory Page: https://augustusyakana.github.io/wdd231/chamber/directory.html
