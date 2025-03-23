@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2025-04-10",
+        "time": "10:00 AM - 2:00 PM",
+        "title": "Pohnpei Business Expo 2025",
+        "location": "College of Micronesia, Palikir",
+        "description": "A showcase of local businesses, entrepreneurs, and startups in Pohnpei. Network with professionals, discover new opportunities, and learn about business trends in the region."
+    },
+    {
+        "date": "2025-05-15",
+        "time": "5:30 PM - 8:00 PM",
+        "title": "Sunset Networking Mixer",
+        "location": "Nett Point, Nett",
+        "description": "A relaxed evening of networking by the water. Meet fellow business owners and professionals while enjoying refreshments and the beautiful Pohnpeian sunset."
+    },
+    {
+        "date": "2025-06-20",
+        "time": "9:00 AM - 12:00 PM",
+        "title": "Small Business Development Workshop",
+        "location": "College of Micronesia, Palikir",
+        "description": "Learn essential skills for growing your business, from marketing strategies to financial management. Featuring expert speakers and hands-on activities."
+    },
+    {
+        "date": "2025-07-12",
+        "time": "8:00 AM - 1:00 PM",
+        "title": "Kolonia Clean & Green Initiative",
+        "location": "Spanish Wall Park, Kolonia",
+        "description": "Join local businesses and community members in a cleanup and beautification project for Kolonia. A great way to give back and promote environmental responsibility."
+    },
+    {
+        "date": "2025-08-05",
+        "time": "6:00 PM - 9:00 PM",
+        "title": "Pohnpei Business Leaders Gala",
+        "location": "PICS Track & Field, Kolonia",
+        "description": "An elegant evening celebrating the achievements of Pohnpei’s top businesses and entrepreneurs. Enjoy dinner, entertainment, and awards presentations."
+    },
+    {
+        "date": "2025-09-18",
+        "time": "10:00 AM - 3:00 PM",
+        "title": "Tourism & Hospitality Summit",
+        "location": "Nan Madol Ruins, Madolenihmw",
+        "description": "A discussion on the future of tourism in Pohnpei. Industry leaders, hotel operators, and tour guides come together to strategize sustainable growth."
+    },
+    {
+        "date": "2025-10-22",
+        "time": "4:00 PM - 7:00 PM",
+        "title": "Young Entrepreneurs Forum",
+        "location": "College of Micronesia, Palikir",
+        "description": "A platform for aspiring young business owners to pitch ideas, receive mentorship, and connect with investors and experienced entrepreneurs."
+    }
+]

@@ -48,6 +48,7 @@ nav {
     font-size: 1.5rem;
     color: white;
     transition: 0.5s ease-in-out;
+    z-index: 5;
 }
 
 .off-screen ul {
@@ -95,7 +96,7 @@ nav {
     left: 50%;
     transform: translate(-50%, -50%);
     transition: .5s ease-in-out;
-    z-index: 5;
+    z-index: 6;
 }
 
 .ham-menu span:nth-child(1) {
@@ -274,4 +275,102 @@ footer {
 .socials img:hover {
     transform: scale(1.06);
     transition: .5s ease;
+}
+
+/* HOME MAIN STYLES */
+.hero,
+.home-content {
+    font-family: 'Raleway', sans-serif;
+}
+
+.hero {
+    position: relative;
+    z-index: 2;
+}
+
+.hero img {
+    width: 100%;
+}
+
+.hero button {
+    position: absolute;
+    z-index: 3;
+    top: 50%;
+    left: 40%;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 20px;
+    width: 150px;
+
+    background-color: rgb(5, 108, 243);
+    color: white;
+    box-shadow: 3px 3px 10px black;
+}
+
+.hero button:hover {
+    color: rgb(255, 224, 49);
+    box-shadow: 3px 3px 10px rgba(255, 224, 49, .6);
+}
+
+.home-content {
+    padding: 1rem;
+}
+
+.home-card {
+    border-radius: 20px;
+    box-shadow: 3px 5px 10px black;
+    padding: .5rem;
+
+    font-size: 12px;
+    overflow: auto;
+}
+
+.home-events {
+    height: 250px;
+}
+
+.home-events .ul-event {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.home-card h4 {
+    background-color: rgb(255, 77, 0);
+    padding: .6rem;
+    margin-top: 0;
+    color: white;
+    font-size: 1rem;
+    position: sticky;
+
+    border-radius: 10px;
+}
+
+.home-events .datetime {
+    font-size: smaller;
+}
+
+.home-events .location-span {
+    font-size: smaller;
+}
+
+.home-events ul li p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.home-weather {
+    width: 45%;
+}
+
+.home-weather .weather-temp {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
 }
