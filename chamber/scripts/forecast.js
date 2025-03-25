@@ -4,15 +4,15 @@ const lon = `158.21555381641937`;
 const lat = `6.977687644435123`;
 const key = `f1cb32b68544ca4f15333fc9f6b365cb`;
 
-const url2 = `https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&cnt=5&units=imperial&appid=${key}`;
+const url2 = `https://api.openweathermap.org/data/2.5/forecast?lat=${lat}&lon=${lon}&units=imperial&appid=${key}`;
 
 async function apiFetch() {
     try {
         const response = await fetch(url2);
         if (response.ok) {
             const data = await response.json();
-            console.log(data.list[0].dt_txt)
-            displayForecast(data.list)
+            // console.log(data)
+            processWeatherData(data.list)
         } else {
             throw Error(await response.text())
         }
@@ -24,21 +24,38 @@ async function apiFetch() {
 apiFetch();
 
 
-const displayForecast = (list) => {
-    list.forEach((item) => {
-        let forecastTemp = document.createElement('span');
-        forecastTemp.innerHTML = `${Math.trunc(item.main.temp)}&deg;F`;
+function processWeatherData(forecasts) {
+    const dailyForecasts = {};
 
-        let forecastDay = document.createElement('span');
-        const dateString = item.dt_txt;
-        const date = new Date(dateString.replace(" ", "T"));
-        const day = date.toLocaleString("en-US", { weekday: "long" })
-        forecastDay.textContent = day;
+    forecasts.forEach(forecast => {
+        const date = forecast.dt_txt.split(' ')[0];
+        if (!dailyForecasts[date]) {
+            dailyForecasts[date] = {
+                day: new Date(date).toLocaleDateString('en-US', { weekday: 'long' }), // Convert to day name
+                temp: forecast.main.temp // Extract temperature
+            };
+        }
+    });
+
+    displayWeather(dailyForecasts);
+}
+
+function displayWeather(forecast) {
+    const dailyForecast = Object.values(forecast);
+    console.log(dailyForecast);
+
+    dailyForecast.forEach(forecast => {
+        let day = document.createElement('span');
+        // console.log(forecast)
+        day.textContent = forecast.day;
+
+        let temp = document.createElement('span');
+        temp.innerHTML = ` ${forecast.temp}&deg:F`
 
         let p = document.createElement('p');
-        p.appendChild(forecastDay);
-        p.appendChild(forecastTemp)
-        forecastContainer.append(p);
+        p.appendChild(day);
+        p.appendChild(temp);
 
+        forecastContainer.append(p);
     })
 }

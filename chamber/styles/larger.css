@@ -64,6 +64,44 @@ footer {
 
 }
 
+
 .socials img {
     width: 2.5rem;
+}
+
+.home-content {
+    display: grid;
+    grid-template-columns: 2fr, 1fr, 1fr;
+}
+
+.home-events .ul-event {
+    height: 300px;
+}
+
+.home-forecast {
+    grid-column: 3/4;
+}
+
+.spot-container .spot-card {
+    box-sizing: border-box;
+    width: 15rem;
+    height: 25rem;
+
+}
+
+.spot-card:nth-child(1),
+.spot-card:nth-child(2),
+.spot-card:nth-child(3) {
+    margin-top: -1.5rem;
+}
+
+.spot-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.home-business {
+    grid-column: 1/4;
+
 }
