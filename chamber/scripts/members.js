@@ -68,8 +68,6 @@ const displayMembers = (data) => {
         card.appendChild(membership);
 
         cardsContainer.append(card);
-
-
     })
 }
 

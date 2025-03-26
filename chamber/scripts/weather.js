@@ -24,9 +24,7 @@ const displayResults = (data) => {
     currentTemp.innerHTML = `${Math.trunc(data.main.temp)}&deg;F`;
     let iconsrc = `https://openweathermap.org/img/w/${data.weather[0].icon}.png`;
     let desc = data.weather[0].description;
-
     weatherIcon.setAttribute('alt', desc);
     weatherIcon.setAttribute('src', iconsrc);
-
     caption.textContent = desc;
 }

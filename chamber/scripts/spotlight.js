@@ -8,8 +8,6 @@ async function getMembersData() {
     console.log(data.members);
     const spotlights = getRandomMembers(data.members, 3);
     populateSpotlight(spotlights);
-
-
 }
 
 const getRandomMembers = (list, num) => {
