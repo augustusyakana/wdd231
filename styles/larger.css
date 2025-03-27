@@ -91,6 +91,10 @@
     box-shadow: 3px 3px 10px gold;
 }
 
+.courses-div {
+    min-height: 4rem;
+}
+
 .cert-courses {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));

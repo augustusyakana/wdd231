@@ -84,6 +84,8 @@ const allBtn = document.querySelector('.all');
 const cseBtn = document.querySelector('.cse');
 const wddBtn = document.querySelector('.wdd');
 
+const modal = document.querySelector('.modal');
+
 allBtn.addEventListener('click', () => {
     clearCourses();
     populateCourses(courses);
@@ -109,12 +111,64 @@ function checkComplete(course) {
     }
 }
 
+
+
+
 function populateCourses(list) {
     list.forEach(course => {
         let div = document.createElement('div');
         div.setAttribute('class', 'course');
         div.textContent = checkComplete(course);
+
+        let courseModal = document.createElement('dialog');
+        courseModal.setAttribute('class', 'modal');
+
+
+        const name = document.createElement('h4');
+        name.textContent = checkComplete(course);
+
+        const close = document.createElement('span');
+        close.textContent = 'X';
+
+        const modalTitle = document.createElement('div')
+        modalTitle.setAttribute('class', 'title-close')
+        modalTitle.append(name);
+        modalTitle.append(close);
+
+        const credits = document.createElement('p');
+        credits.textContent = `${course.credits} credits`;
+
+        const title = document.createElement('p');
+        title.textContent = course.title;
+
+        const cert = document.createElement('p');
+        cert.textContent = `Certificate: ${course.certificate}`
+
+        const desc = document.createElement('p')
+        desc.textContent = course.description;
+
+        const tech = document.createElement('p');
+        tech.textContent = `Technology: ${course.technology.toString()}`;
+
+        courseModal.append(modalTitle)
+        courseModal.append(credits)
+        courseModal.append(title)
+        courseModal.append(cert)
+        courseModal.append(desc)
+        courseModal.append(tech)
+
+        coursesContainer.appendChild(courseModal);
         coursesContainer.appendChild(div);
+
+
+
+        div.addEventListener('click', () => {
+            courseModal.showModal()
+        })
+
+        close.addEventListener('click', () => {
+            courseModal.close();
+        })
     });
 }
 
@@ -127,4 +181,3 @@ function clearCourses() {
 
 
 populateCourses(courses);
-
