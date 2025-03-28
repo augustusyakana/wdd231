@@ -6,8 +6,14 @@ async function getMembersData() {
     const response = await fetch(spotlighturl);
     const data = await response.json();
     console.log(data.members);
-    const spotlights = getRandomMembers(data.members, 3);
+    const highTier = getHighTierMembers(data.members);
+    const spotlights = getRandomMembers(highTier, 3);
     populateSpotlight(spotlights);
+}
+
+const getHighTierMembers = (list) => {
+    const highTier = list.filter(member => member.membership === "Elite Member" || member.membership === "Premium Member");
+    return highTier;
 }
 
 const getRandomMembers = (list, num) => {
