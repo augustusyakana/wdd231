@@ -430,6 +430,11 @@ footer {
     font-family: "Raleway", sans-serif;
 }
 
+#name h1 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
 form {
     display: flex;
     flex-direction: column;

@@ -1,5 +1,3 @@
-
-
 const npbtn = document.querySelector('.npbtn');
 const npmodal = document.querySelector('.npmodal')
 const npclose = document.querySelector('.npclose')
