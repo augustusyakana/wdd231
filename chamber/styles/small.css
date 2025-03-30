@@ -517,6 +517,8 @@ textarea {
     padding: .5rem;
 
     border-radius: 10px;
+    animation-name: animate;
+    animation-duration: 2s;
 }
 
 .level-card .level-price {
@@ -537,6 +539,8 @@ textarea {
 
 .level-card button:hover {
     box-shadow: 2px 3px 10px rgb(0, 0, 0);
+
+
 }
 
 dialog {
@@ -558,4 +562,18 @@ dialog {
     margin: 0 auto;
 
     font-weight: bolder;
+}
+
+@keyframes animate {
+    0% {
+        transform: scale(0.1);
+    }
+
+    95% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1.0);
+    }
 }
