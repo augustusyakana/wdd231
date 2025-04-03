@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Nan Madol Ruins",
+        "discription": "Nan Madol is an ancient ruined city off the coast of Pohnpei, Micronesia. Built between the 8th and 17th centuries, it consists of over 90 artificial islets made from basalt columns and coral fill, interconnected by a network of canals. Often called the 'Venice of the Pacific,' Nan Madol was the ceremonial and political center of the Saudeleur Dynasty, which ruled Pohnpei before European contact. The site is shrouded in mystery, with no clear explanation of how its massive stone structures were transported and constructed. Today, it is a UNESCO World Heritage site and remains a significant cultural and archaeological landmark.",
+        "imgUrl": "images/nanmadol.webp",
+        "address": "Madelonihmw, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=0fdreKvuqgs&t=22s"
+    },
+    {
+        "title": "Kepirohi Waterfall",
+        "discription": "Kepirohi Waterfall is a stunning natural attraction on Pohnpei, Micronesia. Located along the Nan Madol route, it is a popular stop for visitors exploring the island. The waterfall cascades about 20 meters (65 feet) into a large, clear pool surrounded by lush tropical vegetation. Easily accessible via a short walk from the main road, Kepirohi is known for its serene atmosphere and is a favorite spot for swimming and picnicking. The site holds cultural significance for Pohnpeians and is often visited by both locals and tourists.",
+        "imgUrl": "images/kepirohi.webp",
+        "address": "Madelonihmw, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=b6V5TFFDVJg"
+    },
+    {
+        "title": "Sokehs Rock",
+        "discription": "Sokehs Rock is a towering basalt cliff on Sokehs Island, Pohnpei, Micronesia. Rising dramatically above the surrounding landscape, it is a prominent natural landmark and a symbol of Pohnpei’s resilience. The rock played a key role in the 1910 Sokehs Rebellion against German colonial rule, where local rebels used it as a stronghold. Today, it is a popular hiking destination, offering breathtaking panoramic views of Pohnpei and the surrounding ocean. Its steep cliffs and rugged terrain make the climb challenging but rewarding for adventurers.",
+        "imgUrl": "images/sokehsrock.webp",
+        "address": "Sokehs, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=xx0GNTTlfcE"
+    },
+    {
+        "title": "Palikir Pass",
+        "discription": "Palikir Pass is one of Pohnpei’s most famous surf spots, known for its world-class waves. Located off the coast near Palikir, the capital of the Federated States of Micronesia, it offers powerful, hollow reef breaks that attract experienced surfers from around the world. The best surf season is from October to April, when swells from the North Pacific create fast, barreling waves. Accessible only by boat, Palikir Pass remains a relatively uncrowded and pristine surf destination, making it a hidden gem for those seeking high-quality waves in a remote tropical paradise.",
+        "imgUrl": "images/palikirpass.webp",
+        "address": "Palikir, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=9mMzHSM2z14"
+    },
+    {
+        "title": "Six Waterfall Hike",
+        "discription": "The Six Waterfalls Hike in Pohnpei is a scenic and adventurous trek through the island’s lush rainforest, leading to six stunning waterfalls. Located in the Salapwuk area, the hike takes visitors through dense jungle, across streams, and up rugged terrain, offering breathtaking views of cascading falls and natural swimming pools. Each waterfall varies in height and intensity, with some featuring dramatic drops and others gentle flows perfect for a refreshing dip. The hike can be challenging due to its slippery and steep sections, but it is a rewarding experience for nature lovers and adventure seekers. Local guides are recommended to navigate the trail and share cultural insights about the area.",
+        "imgUrl": "images/sixwaterfallshike.webp",
+        "address": "Salapwuk, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=a-KcjZZrrm4"
+    },
+    {
+        "title": "Ant Atoll",
+        "discription": "Ant Atoll is a breathtaking coral atoll located about 18 km (11 miles) southwest of Pohnpei, Micronesia. Known for its crystal-clear waters, white sandy beaches, and rich marine life, it is a popular destination for snorkeling, diving, and fishing. The atoll consists of several small islets surrounding a lagoon, with its largest island, Pasa, serving as a nesting site for seabirds and turtles. Ant Atoll is privately owned by the Nahnmwarki (chief) of Kitti and requires permission to visit. Its pristine reefs and vibrant underwater ecosystem make it one of Pohnpei’s most beautiful and ecologically important sites.",
+        "imgUrl": "images/antatoll.webp",
+        "address": "Ant Atoll, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=pCTkOXTBHLo"
+    },
+    {
+        "title": "Paranui Island Resort",
+        "discription": "Para Nuii is a secluded island retreat near Pohnpei, Micronesia, featuring overwater bungalows and oceanfront huts for rent. Surrounded by crystal-clear waters and coral reefs, it offers a tranquil escape with opportunities for swimming, snorkeling, and relaxation. Accessible by boat, Para Nuii provides a unique island experience where guests can enjoy breathtaking sunsets, fresh sea breezes, and the beauty of untouched nature.",
+        "imgUrl": "images/paranuii.webp",
+        "address": "Paranuii Island, Pohnpei",
+        "link": "https://www.youtube.com/watch?v=T4jiau_FGkc&t=115s"
+    },
+    {
+        "title": "Sakau",
+        "discription": "Sakau, a traditional Pohnpeian drink made from the kava plant, is prepared by grinding the root, mixing it with water, and straining it to produce a calming, earthy beverage. It plays a key role in social and ceremonial events.",
+        "imgUrl": "images/sakau.webp",
+        "address": "no address",
+        "link": "https://www.youtube.com/watch?v=ejFA0PeCbaY"
+    }
+]
