@@ -91,7 +91,7 @@ main {
 }
 
 #siteplan-hero-img button {
-    width: 16rem;
+    width: 15rem;
     padding: .5rem;
 
     border-radius: 10px;
@@ -241,4 +241,43 @@ main {
 footer {
     text-align: center;
     font-family: var(--serif);
+}
+
+@media screen and (max-width: 600px) {
+
+    #siteplan-purpose-audience {
+        width: 80%;
+    }
+
+    #siteplan-scenarios #scene-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .scenes {
+        height: max-content;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+
+    }
+
+    #siteplan-hero-img button {
+        width: 8rem;
+        padding: .2rem;
+        top: 90%;
+
+    }
+
+    #siteplan-colorschema-container>div {
+        display: flex;
+        flex-basis: auto;
+        flex-wrap: wrap;
+
+    }
+
+    #siteplan-wireframes-container>div img:nth-child(2) {
+        width: 100%;
+    }
+
 }
