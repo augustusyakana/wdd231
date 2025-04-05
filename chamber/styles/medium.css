@@ -68,3 +68,14 @@
     font-weight: bolder;
     text-decoration: underline;
 }
+
+.socials {
+    gap: 2rem;
+    margin: 0 auto;
+
+
+}
+
+.foot-info {
+    flex-direction: row;
+}

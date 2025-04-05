@@ -61,6 +61,8 @@ const displaySites = (sites) => {
         discoverimage.setAttribute('src', site.imgUrl);
         discoverimage.setAttribute('alt', `photo of ${site.title}`);
         discoverimage.setAttribute('loading', 'lazy');
+        discoverimage.setAttribute('width', '300');
+        discoverimage.setAttribute('height', '200');
         discoverimage.setAttribute('class', 'discover-img');
 
         const discoverfigcap = document.createElement('figcaption');
