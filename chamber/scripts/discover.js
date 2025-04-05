@@ -60,6 +60,7 @@ const displaySites = (sites) => {
         const discoverimage = document.createElement('img');
         discoverimage.setAttribute('src', site.imgUrl);
         discoverimage.setAttribute('alt', `photo of ${site.title}`);
+        discoverimage.setAttribute('loading', 'lazy');
         discoverimage.setAttribute('class', 'discover-img');
 
         const discoverfigcap = document.createElement('figcaption');

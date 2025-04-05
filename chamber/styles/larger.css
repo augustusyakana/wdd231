@@ -95,6 +95,11 @@ footer {
     width: 20rem;
 }
 
+.discover-card:hover {
+    transform: scale(1.03);
+    transition: 1s ease-in-out;
+}
+
 .discover-fig {
     width: 100%;
 }
