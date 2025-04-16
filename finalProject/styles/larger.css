@@ -1,0 +1,114 @@
+/* Coolors Link: https: //coolors.co/1d2f6f-000000-ffffff-317b22-279af1 */
+:root {
+    --dark-blue: #1d2f6f;
+    --white: #ffffff;
+    --black: #000000;
+    --green: #317b22;
+    --light-blue: #279af1;
+
+    --serif: "Playfair Display", serif;
+    --sans: "Ubuntu", sans-serif;
+
+
+}
+
+nav {
+    height: 3rem;
+}
+
+#img_container {
+    width: 10rem;
+}
+
+
+.ham-menu {
+    display: none;
+}
+
+.off-screen {
+    right: 0;
+    position: relative;
+    width: 100%;
+    max-width: none;
+    height: 3rem;
+    transition: none;
+    background-color: var(--dark-blue);
+
+    font-size: 18px;
+
+}
+
+.off-screen ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 0;
+    width: 100%;
+    align-content: center;
+}
+
+.off-screen ul li:hover {
+
+    text-shadow: 3px 3px 10px gold;
+
+}
+
+.hero button {
+    top: 70%;
+    left: 40%;
+}
+
+.mission {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#home-jobs-container {
+    grid-template-columns: 1fr 1fr;
+}
+
+footer {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.foot-company-info {
+    text-wrap: wrap;
+}
+
+.foot-company-info p {
+    margin-top: 1rem;
+}
+
+.foot-copyright {
+    grid-column: 1/5;
+}
+
+#jobs-container {
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+#filter-container {
+    margin: 0 auto;
+}
+
+.join-main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.membership-container h2 {
+    text-align: center;
+}
+
+.form-container {
+    padding-bottom: 1rem;
+}
+
+.modal,
+.form-modal {
+    width: 700px;
+}

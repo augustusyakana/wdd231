@@ -16,11 +16,13 @@
 body {
     margin: 0;
     padding: 0;
+    height: 100vh;
 }
 
 nav img {
     width: 100%;
     margin-bottom: -2rem;
+    filter: invert();
 }
 
 #logo_container {
@@ -201,4 +203,426 @@ nav {
 .mission p {
     font-family: var(--sans);
     font-size: 13px;
+}
+
+footer {
+    background-color: var(--dark-blue);
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+footer div a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    font-family: var(--sans);
+}
+
+footer div h5 {
+    margin-bottom: 0rem;
+    font-size: 15px;
+}
+
+footer div {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+
+    padding: .5rem;
+    color: white;
+}
+
+.foot-company-info img {
+    filter: invert();
+}
+
+.foot-company-info p {
+    font-size: 12px;
+    margin-top: -.5rem;
+    font-family: var(--sans);
+}
+
+.foot-copyright p {
+    font-size: 12px;
+    text-align: center;
+}
+
+.foot-copyright {
+    background-color: #223578;
+
+}
+
+.show {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    background-color: var(--green);
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+#home-jobs-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#home-jobs-container p {
+    text-align: left;
+}
+
+.featured-jobs h2 {
+    text-align: center;
+}
+
+.featured-jobs a {
+    text-decoration: none;
+}
+
+.featured-jobs p {
+    text-align: center;
+    font-size: 13px;
+    font-family: var(--sans);
+}
+
+.featured-jobs .modal p {
+    text-align: left;
+}
+
+.view-all {
+    text-align: center;
+}
+
+#jobs-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.job-card {
+    padding: .5rem;
+    margin: 0 auto;
+    width: 85%;
+    box-shadow: 5px 5px 10px black;
+    border-radius: 1rem;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 2rem 2rem 2rem;
+}
+
+.company {
+    font-size: 14px;
+    color: rgb(52, 107, 113);
+    font-family: var(--sans);
+}
+
+.title {
+    grid-column: 1/3;
+    grid-row: 1/2;
+
+    font-size: 22px;
+    align-self: center;
+}
+
+.info-btn {
+
+    height: 1.5rem;
+    align-items: center;
+    align-self: center;
+    border: none;
+
+    border-radius: 5px;
+    background-color: var(--white);
+    box-shadow: 2px 2px 8px black;
+    color: var(--light-blue);
+
+    grid-column: 2/3;
+    font-family: var(--sans);
+
+}
+
+.location {
+    grid-column: 1/2;
+    grid-row: 3/4;
+    font-size: 14px;
+    color: rgb(52, 107, 113);
+    align-self: center;
+    font-family: var(--sans);
+}
+
+.type {
+    grid-column: 1/2;
+    grid-row: 4/5;
+    font-size: 13px;
+    color: rgb(52, 107, 113);
+    align-self: center;
+    font-family: var(--sans);
+}
+
+.pay {
+    grid-column: 2/3;
+    grid-row: 4/5;
+
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--green);
+    font-family: var(--sans);
+}
+
+.modal {
+    width: 80%;
+    overflow: auto;
+    border: none;
+
+    border-radius: 1rem;
+
+}
+
+body.modal-open {
+    overflow: hidden;
+}
+
+.close,
+.apply-btn {
+    border: none;
+    width: 8rem;
+
+    padding: .4rem;
+    box-shadow: 1px 2px 5px black;
+
+    border-radius: 5px;
+
+}
+
+.close {
+    color: var(--green);
+}
+
+::backdrop {
+    background: rgba(0, 0, 0, 0.572);
+}
+
+.apply-btn {
+    margin-left: 1rem;
+}
+
+.apply-btn a {
+    text-decoration: none;
+    color: var(--light-blue);
+}
+
+#filter-container {
+    /* border: 1px solid red; */
+    gap: .5rem;
+    width: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: .4rem;
+}
+
+#filter-container label {
+    font-size: 12px;
+    font-family: var(--sans);
+}
+
+#filter-container select {
+    width: 4rem;
+    height: 1rem;
+}
+
+.form-container {
+    padding-top: 1rem;
+}
+
+.joinForm {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 85%;
+    margin: 0 auto;
+    background: var(--light-blue);
+
+}
+
+textarea {
+    width: 10rem;
+    height: 5rem;
+
+    font-family: var(--sans);
+}
+
+.joinForm input {
+    display: block;
+    padding: .3rem;
+}
+
+.form-partner {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-partner input {
+    display: inline;
+}
+
+#form-states {
+    margin-top: 1rem;
+}
+
+#submit {
+    border: none;
+    border-radius: 10px;
+    padding: .5rem;
+
+    box-shadow: 3px 5px 10px black;
+
+    color: var(--light-blue);
+    margin-top: 1rem;
+}
+
+.join-main {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.membership-container {
+    padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.level-card {
+    padding: 1rem;
+    box-shadow: 3px 3px 10px black;
+
+    width: 90%;
+    margin: 0 auto;
+    box-sizing: border-box;
+
+    border-radius: 1rem;
+}
+
+.level-card h4 {
+    font-family: var(--serif);
+    font-size: 18px;
+}
+
+.level-card p {
+    font-family: var(--sans);
+    font-size: 14px;
+}
+
+.level-card button {
+    border: none;
+    width: 8rem;
+    padding: .3rem;
+    border-radius: 5px;
+    background-color: white;
+    color: var(--light-blue);
+    box-shadow: 2px 5px 8px black;
+}
+
+.modal-btn {
+    border: none;
+    padding: .3rem;
+    width: 10rem;
+    border-radius: 7px;
+    background-color: white;
+    box-shadow: 2px 3px 5px black;
+    color: var(--light-blue);
+}
+
+.form-modal {
+    border: none;
+    width: 85%;
+
+}
+
+.form-modal h4 {
+    font-family: var(--serif);
+}
+
+.form-modal p,
+.form-modal li {
+    font-family: var(--sans);
+}
+
+.form-modal button {
+    border: none;
+    width: 8rem;
+    padding: .3rem;
+
+    border-radius: 5px;
+    background-color: white;
+    color: var(--light-blue);
+
+    box-shadow: 3px 3px 8px black;
+}
+
+.thankyou {
+    width: 85%;
+    margin: 0 auto;
+    padding-bottom: 1rem;
+    font-family: var(--sans);
+}
+
+.thankyou h4 {
+    font-family: var(--serif);
+    font-size: 20px;
+}
+
+
+
+.form-details {
+    font-family: var(--serif);
+    padding: .5rem;
+    border-radius: 1rem;
+    border: 2px dotted var(--dark-blue);
+}
+
+.applied {
+    width: 85%;
+    margin: 0 auto;
+    height: 50vh;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.applied p {
+    font-size: 18px;
+    font-family: var(--sans);
+}
+
+.applied img {
+    width: 5rem;
+}
+
+.thankyou {
+    max-width: 850px;
+}
+
+.applied {
+    max-width: 850px;
+}
+
+.applied a {
+    text-decoration: none;
+    color: var(--dark-blue);
+}
+
+.applied a:hover {
+    text-shadow: 1px 2px 5px var(--light-blue);
 }

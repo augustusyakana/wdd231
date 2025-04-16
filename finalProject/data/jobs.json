@@ -1,0 +1,604 @@
+{
+  "jobs": [
+    {
+      "title": "Technician",
+      "datePosted": "2025-04-10",
+      "company": "Aurora Hardware",
+      "location": "Pohnpei",
+      "type": "Part Time",
+      "pay": "$25567/yr",
+      "logo": "./data/logos/aurora_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Aurora Hardware is a trusted name in consumer goods across Micronesia.",
+      "positionDescription": "We are currently hiring a Technician to join our team in Pohnpei.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Warehouse Associate",
+      "datePosted": "2025-04-08",
+      "company": "Kayni's Appliances",
+      "location": "Chuuk",
+      "type": "Part Time",
+      "pay": "$29218/yr",
+      "logo": "./data/logos/kayni_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Kayni's Appliances is a trusted name in services across Micronesia.",
+      "positionDescription": "We are currently hiring a Warehouse Associate to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Marketing Coordinator",
+      "datePosted": "2025-04-03",
+      "company": "Whyme's Goods",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "$30646/yr",
+      "logo": "./data/logos/whyme_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Whyme's Goods is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Marketing Coordinator to join our team in Yap.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Warehouse Associate",
+      "datePosted": "2025-04-05",
+      "company": "Aurora Hardware",
+      "location": "Chuuk",
+      "type": "Part Time",
+      "pay": "$14/hr",
+      "logo": "./data/logos/aurora_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Aurora Hardware is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Warehouse Associate to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Delivery Driver",
+      "datePosted": "2025-04-07",
+      "company": "Whyme's Goods",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "$28572/yr",
+      "logo": "./data/logos/whyme_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Whyme's Goods is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Delivery Driver to join our team in Yap.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Marketing Coordinator",
+      "datePosted": "2025-04-16",
+      "company": "Kimokoa Office Supplies",
+      "location": "Chuuk",
+      "type": "Part Time",
+      "pay": "$20/hr",
+      "logo": "./data/logos/kimo_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Kimokoa Office Supplies is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Marketing Coordinator to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "datePosted": "2025-04-08",
+      "company": "Kayni's Appliances",
+      "location": "Kosrae",
+      "type": "Part Time",
+      "pay": "$30673/yr",
+      "logo": "./data/logos/kayni_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Kayni's Appliances is a trusted name in services across Micronesia.",
+      "positionDescription": "We are currently hiring a Software Developer to join our team in Kosrae.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "datePosted": "2025-04-14",
+      "company": "Kayni's Appliances",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "$23185/yr",
+      "logo": "./data/logos/kayni_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Kayni's Appliances is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Sales Representative to join our team in Pohnpei.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Marketing Coordinator",
+      "datePosted": "2025-04-04",
+      "company": "Whyme's Goods",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "$25612/yr",
+      "logo": "./data/logos/whyme_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Whyme's Goods is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Marketing Coordinator to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Marketing Coordinator",
+      "datePosted": "2025-04-10",
+      "company": "Kaselel Web Services",
+      "location": "Yap",
+      "type": "Part Time",
+      "pay": "$17601/yr",
+      "logo": "./data/logos/kws_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Kaselel Web Services is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Marketing Coordinator to join our team in Yap.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "IT Support Specialist",
+      "datePosted": "2025-04-07",
+      "company": "Aurora Hardware",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "$27538/yr",
+      "logo": "./data/logos/aurora_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Aurora Hardware is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a IT Support Specialist to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Customer Support",
+      "datePosted": "2025-04-16",
+      "company": "Prince Global",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "$10/hr",
+      "logo": "./data/logos/prince_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Prince Global is a trusted name in services across Micronesia.",
+      "positionDescription": "We are currently hiring a Customer Support to join our team in Yap.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "datePosted": "2025-04-15",
+      "company": "Kaselel Web Services",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "$15568/yr",
+      "logo": "./data/logos/kws_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Kaselel Web Services is a trusted name in technology across Micronesia.",
+      "positionDescription": "We are currently hiring a Sales Representative to join our team in Kosrae.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Delivery Driver",
+      "datePosted": "2025-04-11",
+      "company": "Kayni's Appliances",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "$21637/yr",
+      "logo": "./data/logos/kayni_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Kayni's Appliances is a trusted name in technology across Micronesia.",
+      "positionDescription": "We are currently hiring a Delivery Driver to join our team in Kosrae.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Office Clerk",
+      "datePosted": "2025-04-14",
+      "company": "Kaselel Web Services",
+      "location": "Chuuk",
+      "type": "Part Time",
+      "pay": "$9/hr",
+      "logo": "./data/logos/kws_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Kaselel Web Services is a trusted name in consumer goods across Micronesia.",
+      "positionDescription": "We are currently hiring a Office Clerk to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Office Clerk",
+      "datePosted": "2025-04-06",
+      "company": "Prince Global",
+      "location": "Yap",
+      "type": "Part Time",
+      "pay": "$19/hr",
+      "logo": "./data/logos/prince_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Prince Global is a trusted name in services across Micronesia.",
+      "positionDescription": "We are currently hiring a Office Clerk to join our team in Yap.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "datePosted": "2025-04-08",
+      "company": "Aurora Hardware",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "$11/hr",
+      "logo": "./data/logos/aurora_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Aurora Hardware is a trusted name in technology across Micronesia.",
+      "positionDescription": "We are currently hiring a Sales Representative to join our team in Kosrae.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Warehouse Associate",
+      "datePosted": "2025-04-06",
+      "company": "Kimokoa Office Supplies",
+      "location": "Chuuk",
+      "type": "Part Time",
+      "pay": "$18/hr",
+      "logo": "./data/logos/kimo_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Kimokoa Office Supplies is a trusted name in consumer goods across Micronesia.",
+      "positionDescription": "We are currently hiring a Warehouse Associate to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Office Clerk",
+      "datePosted": "2025-04-15",
+      "company": "Kaselel Web Services",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "$18/hr",
+      "logo": "./data/logos/kws_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Kaselel Web Services is a trusted name in services across Micronesia.",
+      "positionDescription": "We are currently hiring a Office Clerk to join our team in Kosrae.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "datePosted": "2025-04-06",
+      "company": "Legend Motors",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "$10/hr",
+      "logo": "./data/logos/legend_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Legend Motors is a trusted name in consumer goods across Micronesia.",
+      "positionDescription": "We are currently hiring a Software Developer to join our team in Pohnpei.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "datePosted": "2025-04-06",
+      "company": "Whyme's Goods",
+      "location": "Pohnpei",
+      "type": "Part Time",
+      "pay": "$25813/yr",
+      "logo": "./data/logos/whyme_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Whyme's Goods is a trusted name in consumer goods across Micronesia.",
+      "positionDescription": "We are currently hiring a Sales Representative to join our team in Pohnpei.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "datePosted": "2025-04-03",
+      "company": "Kaselel Web Services",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "$13/hr",
+      "logo": "./data/logos/kws_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Kaselel Web Services is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Sales Representative to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Warehouse Associate",
+      "datePosted": "2025-04-04",
+      "company": "Kimokoa Office Supplies",
+      "location": "Chuuk",
+      "type": "Part Time",
+      "pay": "$9/hr",
+      "logo": "./data/logos/kimo_logo.webp",
+      "tier": "Basic",
+      "companyDescription": "Kimokoa Office Supplies is a trusted name in retail across Micronesia.",
+      "positionDescription": "We are currently hiring a Warehouse Associate to join our team in Chuuk.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Marketing Coordinator",
+      "datePosted": "2025-04-08",
+      "company": "Legend Motors",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "$16/hr",
+      "logo": "./data/logos/legend_logo.webp",
+      "tier": "Elite",
+      "companyDescription": "Legend Motors is a trusted name in consumer goods across Micronesia.",
+      "positionDescription": "We are currently hiring a Marketing Coordinator to join our team in Yap.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    },
+    {
+      "title": "Sales Representative",
+      "datePosted": "2025-04-11",
+      "company": "Aurora Hardware",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "$23860/yr",
+      "logo": "./data/logos/aurora_logo.webp",
+      "tier": "Premium",
+      "companyDescription": "Aurora Hardware is a trusted name in services across Micronesia.",
+      "positionDescription": "We are currently hiring a Sales Representative to join our team in Pohnpei.",
+      "responsibilities": [
+        "Perform assigned duties with professionalism",
+        "Collaborate with team members",
+        "Ensure quality and efficiency",
+        "Maintain a safe and clean work environment"
+      ],
+      "requirements": [
+        "High school diploma or equivalent",
+        "Strong communication skills",
+        "Ability to work independently",
+        "Previous experience is a plus"
+      ]
+    }
+  ]
+}

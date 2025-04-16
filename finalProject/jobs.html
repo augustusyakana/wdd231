@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/small.css">
     <link media="screen and (min-width: 600px)" rel="stylesheet" href="styles/larger.css">
-    <title>Home | Kamoralink Lite</title>
+    <title>Jobs | Kamoralink Lite</title>
 </head>
 
 <body>
@@ -33,35 +33,18 @@
         </div>
     </header>
     <main>
-        <section class="last-visit-container show">
-            <p class="last-visit"></p>
-            <span class="last-visit-close">✖</span>
-        </section>
-        <section class="hero">
-            <figure>
-                <img src="images/hero.webp" alt="kamoralink logo / hero image">
-                <figcaption>© 2025 KamoraLink™</figcaption>
-            </figure>
+        <div id="filter-container">
+            <label for="states">Filter by State</label>
+            <select name="states" id="states">
+                <option value="all">All</option>
+                <option value="pohnpei">Pohnpei</option>
+                <option value="chuuk">Chuuk</option>
+                <option value="yap">Yap</option>
+                <option value="kosrae">Kosrae</option>
+            </select>
+        </div>
+        <section id="jobs-container">
 
-            <button>Search Jobs</button>
-        </section>
-        <section class="mission">
-            <div>
-                <h2>About Our Mission</h2>
-                <p>KamoraLink is dedicated to connecting job seekers and employers across the Federated States of
-                    Micronesia by bringing
-                    all opportunities into one convenient online space. Our mission is to simplify access to employment
-                    and support the
-                    growth of a stronger, digitally connected workforce in Micronesia.</p>
-            </div>
-
-        </section>
-        <section class="featured-jobs">
-            <h2>Featured Jobs</h2>
-            <div id="home-jobs-container">
-
-            </div>
-            <p><a href="jobs.html">View All Jobs →</a></p>
         </section>
     </main>
     <footer>
@@ -89,8 +72,8 @@
             <p>© <span id="copyright"></span> KamoraLink | Yakana GoC, FSM | All Rights Reserved.</p>
         </div>
     </footer>
-    <script type="module" src="scripts/index.js" defer></script>
-    <script src="scripts/main.js" defer></script>
+    <script type="module" src="scripts/jobs.js" defer></script>
+    <script src="scripts/main.js"></script>
 </body>
 
 </html>

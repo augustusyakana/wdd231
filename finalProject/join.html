@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/small.css">
+    <link media="screen and (min-width: 600px)" rel="stylesheet" href="styles/larger.css">
+    <title>Join | Kamoralink Lite</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div id="logo-container">
+                <img width="30" height="35" src="images/logo-lite.PNG" alt="kamoralink logo">
+            </div>
+            <!-- <div id="name">
+                <span></span>
+            </div> -->
+            <div class="ham-menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+        <div class="off-screen ">
+            <ul>
+                <li class="current"><a href="index.html">🏠 Home</a></li>
+                <li><a href="jobs.html">💼 Jobs</a></li>
+                <li><a href="join.html">💎 Join</a></li>
+            </ul>
+        </div>
+    </header>
+    <main class="join-main">
+        <section class="form-container">
+
+            <form method="GET" action="thankyou.html" class="joinForm">
+                <div class="form-intro">
+                    <h2 id="join-title">Sign Up</h2>
+                    <label>First Name <input type="text" name="firstname" required autocomplete="given-name"
+                            title="Your First Name"></label>
+                    <label>Last Name <input type="text" name="lastname" required autocomplete="family-name"
+                            title="Your Last Name"></label>
+                    <label>Email <input type="email" name="email" placeholder="partner@email.com" required
+                            autocomplete="email" title="Your Email Address"></label>
+                    <label>Phone <input type="tel" name="phone" required autocomplete="tel"
+                            title="Your First Name"></label>
+                    <label>Business Name <input type="text" name="businessname" required autocomplete="organization"
+                            title="Your Business Name"></label>
+                    <label>Industry <input type="text" name="industry" required autocomplete="industry"
+                            title="industry"></label>
+                    <label>State
+                        <select name="states" id="form-states">
+                            <option value="national">FSM</option>
+                            <option value="pohnpei">Pohnpei</option>
+                            <option value="chuuk">Chuuk</option>
+                            <option value="yap">Yap</option>
+                            <option value="kosrae">Kosrae</option>
+                        </select>
+                    </label>
+                </div>
+
+                <div class="form-partner">
+                    <h4 id="join-membership">Membership Level</h4>
+                    <label><input type="radio" name="partnership" value="Basic">Basic Membership</label>
+                    <label><input type="radio" name="partnership" value="Premium">Premium Membership</label>
+                    <label><input type="radio" name="partnership" value="Elite">Elite Membership</label>
+                </div>
+
+                <div class="form-desc">
+                    <h4>Company Description</h4>
+                    <label><textarea name="description" title="Your Business Description"></textarea></label>
+                </div>
+                <input type="hidden" name="timestamp" id="timestamp">
+                <input id="submit" type="submit" value="Start Membership">
+            </form>
+        </section>
+        <section class="membership-container">
+            <h2>Membership Levels</h2>
+            <div class="level-card">
+                <h4>Basic Membership</h4>
+                <p>A practical starting point for small businesses or community employers. Basic gives you the
+                    essentials to start posting
+                    jobs and reviewing local applicants.</p>
+                <button class="basic-btn">See Benefits</button>
+                <dialog class="basic-modal form-modal">
+                    <h4>Basic Membership Cost & Benefits</h4>
+                    <p>$15/month</p>
+                    <ul>
+                        <li>Post up to 10 active job listings</li>
+                        <li>View up to 25 applicant profiles per month</li>
+                        <li>Access to a basic job management dashboard</li>
+                        <li>Standard email support</li>
+                        <li>Listings appear in standard search results</li>
+                    </ul>
+                    <button class="basic-close-btn">Close</button>
+                </dialog>
+            </div>
+            <div class="level-card">
+                <h4>Premium Membership</h4>
+                <p>Ideal for businesses with regular hiring needs. Premium boosts your visibility and provides more
+                    tools to help you
+                    manage job posts and applicants efficiently.</p>
+                <button class="prem-btn">See Benefits</button>
+                <dialog class="prem-modal form-modal">
+                    <h4>Premium Membership Cost & Benefits</h4>
+                    <p>$35/month</p>
+                    <ul>
+                        <li>Post up to 30 active job listings</li>
+                        <li>View up to 100 applicant profiles per month</li>
+                        <li>Listings receive priority placement in job search results</li>
+                        <li>Company logo included on listings</li>
+                        <li>Access to applicant sorting tools</li>
+                        <li>Email and chat support during business hours</li>
+                    </ul>
+                    <button class="prem-close-btn">Close</button>
+                </dialog>
+            </div>
+            <div class="level-card">
+                <h4>Elite Membership</h4>
+                <p>Designed for larger organizations, agencies, or frequent recruiters. Elite offers the highest
+                    visibility, early feature
+                    access, and priority support.</p>
+                <button class="elite-btn">See Benefits</button>
+                <dialog class="elite-modal form-modal">
+                    <h4>Elite Membership Cost & Benefits</h4>
+                    <p>$75/month</p>
+                    <ul>
+                        <li>Post up to 75 active job listings</li>
+                        <li>View up to 300 applicant profiles per month</li>
+                        <li>Listings appear in featured sections</li>
+                        <li>Full company branding on job pages</li>
+                        <li>Early access to AI-powered candidate matching (in development)</li>
+                        <li>Monthly summary reports (basic insights)</li>
+                        <li>Priority support via email and chat</li>
+                    </ul>
+                    <button class="elite-close-btn">Close</button>
+                </dialog>
+            </div>
+
+        </section>
+    </main>
+    <footer>
+        <div class="foot-company-info">
+            <img loading="lazy" width="150" height="30" src="images/logo-lite.PNG" alt="kamoralink lite logo">
+            <p>Connecting Micronesia's Talent with Opportunity</p>
+        </div>
+        <div class="foot-workers">
+            <h5>For Job Seekers</h5>
+            <a href="">Learn more</a>
+            <a href="">Browse Jobs</a>
+        </div>
+        <div class="foot-emplyers">
+            <h5>For Employers</h5>
+            <a href="">Join Us</a>
+            <a href="">Learn more</a>
+            <a href="">Pricing</a>
+        </div>
+        <div class="foot-contact">
+            <h5>Contact</h5>
+            <a href="">support@kamoralink.fm</a>
+            <a href="">+1 (691) 320 - 3100</a>
+        </div>
+        <div class="foot-copyright">
+            <p>© <span id="copyright"></span> KamoraLink | Yakana GoC, FSM | All Rights Reserved.</p>
+        </div>
+    </footer>
+    <script type="module" src="scripts/form.js" defer></script>
+    <script src="scripts/main.js"></script>
+</body>
+
+</html>
