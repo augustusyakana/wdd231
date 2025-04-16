@@ -1,3 +1,4 @@
+// Ham menu functionality
 const hamMenu = document.querySelector('.ham-menu');
 const offScreen = document.querySelector('.off-screen');
 

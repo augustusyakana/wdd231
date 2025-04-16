@@ -1,727 +1,654 @@
-[
-  {
-    "id": 1,
-    "title": "Engineer, production",
-    "date_posted": "2025-03-22",
-    "until": "2025-04-23",
-    "company": "Yoder Ltd",
-    "location": "Chuuk",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$39353"
+{
+  "jobs": [
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/micronesia_workforce_hub__pohnpei.webp"
     },
-    "company_description": "North yet culture time Republican deep message. Bank land turn leader wear.",
-    "position_description": "Republican main during real know. Wish far loss school. Culture speak fish activity agree way.",
-    "responsibilities": [
-      "Lot through score growth smile daughter everything strategy.",
-      "Debate worry administration sometimes through truth shoulder.",
-      "We industry history process usually board.",
-      "Night why by.",
-      "Build Republican hit meet stage."
-    ],
-    "requirements": [
-      "Table that return teach.",
-      "Teach hope success teacher peace wide.",
-      "Writer less successful name treatment those positive.",
-      "Shake miss also moment listen product."
-    ],
-    "logo": "logo_1.png"
-  },
-  {
-    "id": 2,
-    "title": "Dancer",
-    "date_posted": "2025-04-06",
-    "until": "Until filled",
-    "company": "Phillips Ltd",
-    "location": "Yap",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$20/hr"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Chuuk",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/techisland_solutions__chuuk.webp"
     },
-    "company_description": "Group condition statement past. Fact kid your mean second two under. Art yeah mean. Couple onto music me.",
-    "position_description": "Choose politics matter collection others summer up show. Cover worry plant official pull person expert.",
-    "responsibilities": [
-      "Sing agent air.",
-      "Forget house public statement consumer me.",
-      "Safe condition senior decade indicate however.",
-      "Perhaps conference bank.",
-      "Ok in authority blue laugh computer someone."
-    ],
-    "requirements": [
-      "Deal rather amount practice spring represent once.",
-      "While nothing size this wish these start.",
-      "Public become enjoy region partner man.",
-      "This interest job course."
-    ],
-    "logo": "logo_2.png"
-  },
-  {
-    "id": 3,
-    "title": "Music tutor",
-    "date_posted": "2025-03-15",
-    "until": "Until filled",
-    "company": "Bass and Sons",
-    "location": "Chuuk",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$29103"
+    {
+      "jobTitle": "Accountant",
+      "company": "Pacific Finance Co. - Kosrae",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "32000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Elite",
+      "companyLogo": "logos/pacific_finance_co__kosrae.webp"
     },
-    "company_description": "Case pick eight.",
-    "position_description": "Perhaps show Mr moment inside with whose. Listen population operation any make huge. Difference attack increase land modern between.",
-    "responsibilities": [
-      "Television food owner all stock film tough method.",
-      "Teach miss accept affect program population how.",
-      "Avoid television identify doctor.",
-      "Dark forget so letter audience away.",
-      "Between kitchen manager start its family surface there."
-    ],
-    "requirements": [
-      "Yes get white fly best easy product recognize.",
-      "Trade position reflect appear serve building serious anyone.",
-      "Space apply garden single since prove federal.",
-      "Eight half town view time with themselves."
-    ],
-    "logo": "logo_3.png"
-  },
-  {
-    "id": 4,
-    "title": "Fashion designer",
-    "date_posted": "2025-03-22",
-    "until": "Until filled",
-    "company": "Huber-Mcconnell",
-    "location": "Pohnpei",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$29460"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Kosrae",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/techisland_solutions__kosrae.webp"
     },
-    "company_description": "Drive thing foot surface same for ok. Several gas who method hit age newspaper.",
-    "position_description": "Sing plant only skill. Price tax born foreign wish marriage leave.",
-    "responsibilities": [
-      "Appear wife because whatever area perform leg.",
-      "Safe measure however six want friend budget.",
-      "Past difficult say amount dream white.",
-      "Recent military money side.",
-      "Various buy school its my later."
-    ],
-    "requirements": [
-      "Woman memory assume.",
-      "To short old collection side billion build nearly.",
-      "They man sport however major respond operation social.",
-      "Wall continue wait who whether along support popular."
-    ],
-    "logo": "logo_4.png"
-  },
-  {
-    "id": 5,
-    "title": "Health visitor",
-    "date_posted": "2025-03-13",
-    "until": "2025-05-10",
-    "company": "Yoder Ltd",
-    "location": "Chuuk",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$9/hr"
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Chuuk",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/micronesia_workforce_hub__chuuk.webp"
     },
-    "company_description": "Agent do war once interest. Send world student author goal but.",
-    "position_description": "Front time note decision its. Although discussion them off city. Matter Mrs power dream catch speech business sit.",
-    "responsibilities": [
-      "Prove significant one than drop year.",
-      "Lay happy full special guy argue game.",
-      "Body resource leg where they already ready.",
-      "Result himself water movement.",
-      "Spend painting serious check realize next."
-    ],
-    "requirements": [
-      "Card response nothing officer response attention.",
-      "Feeling chance young wrong four.",
-      "Oil describe result vote newspaper attorney.",
-      "Citizen whose argue none wall."
-    ],
-    "logo": "logo_5.png"
-  },
-  {
-    "id": 6,
-    "title": "Chartered legal executive (England and Wales)",
-    "date_posted": "2025-04-02",
-    "until": "Until filled",
-    "company": "Dickerson-Reynolds",
-    "location": "Pohnpei",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$22/hr"
+    {
+      "jobTitle": "Field Technician",
+      "company": "BlueWave Telecom - Chuuk",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "10.00",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/bluewave_telecom__chuuk.webp"
     },
-    "company_description": "Them event woman just gun. Discussion minute respond player drug. Explain machine themselves son treat glass approach.",
-    "position_description": "Summer he day. Writer past agreement consumer people manager. Any against central measure well around.",
-    "responsibilities": [
-      "Company husband student.",
-      "Hand her push there business fear.",
-      "Church find heavy pass thank part edge.",
-      "More reality energy choose know.",
-      "Lay western office third."
-    ],
-    "requirements": [
-      "Other really level focus continue.",
-      "Whether south trial thing number interview size.",
-      "Challenge body movie cell human dark.",
-      "Sure financial project area expert family herself."
-    ],
-    "logo": "logo_6.png"
-  },
-  {
-    "id": 7,
-    "title": "Designer, ceramics/pottery",
-    "date_posted": "2025-03-25",
-    "until": "Until filled",
-    "company": "Phillips Ltd",
-    "location": "Pohnpei",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$37831"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/techisland_solutions__pohnpei.webp"
     },
-    "company_description": "Base my recent. Several cover recently their tonight yeah.",
-    "position_description": "Citizen effort trade listen knowledge responsibility just left. Interesting line author discover tonight. Ask fish public west less million culture. Exactly upon will avoid grow card consumer.",
-    "responsibilities": [
-      "Commercial girl side buy fine protect.",
-      "Authority get three arm town movement.",
-      "Voice smile bar why.",
-      "Lawyer owner take avoid blood back.",
-      "Event evidence music computer appear subject theory."
-    ],
-    "requirements": [
-      "Despite forget tax might paper open myself.",
-      "Among miss employee station.",
-      "Buy town local night act different follow activity.",
-      "South western environment present picture."
-    ],
-    "logo": "logo_7.png"
-  },
-  {
-    "id": 8,
-    "title": "Fashion designer",
-    "date_posted": "2025-03-15",
-    "until": "2025-04-04",
-    "company": "Romero, Davis and Mcneil",
-    "location": "Yap",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$43986"
+    {
+      "jobTitle": "Administrative Assistant",
+      "company": "Island Office Supplies - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Part Time",
+      "pay": "8.50",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/island_office_supplies__pohnpei.webp"
     },
-    "company_description": "Leave Mrs have receive page former standard. Scientist natural several event group.",
-    "position_description": "Candidate call positive near what. Over really order firm. Popular it customer evening decide particularly red.",
-    "responsibilities": [
-      "Stuff energy explain admit really will.",
-      "Second meeting writer energy lose resource past certain.",
-      "Provide first daughter them.",
-      "Allow as social positive yeah lawyer.",
-      "Local and who seem similar couple forward fund."
-    ],
-    "requirements": [
-      "Business million so tonight simply.",
-      "Lot situation audience mouth.",
-      "Office nature exactly impact writer cause agency stand.",
-      "Country star dog system ten."
-    ],
-    "logo": "logo_8.png"
-  },
-  {
-    "id": 9,
-    "title": "Social research officer, government",
-    "date_posted": "2025-03-11",
-    "until": "Until filled",
-    "company": "Yoder Ltd",
-    "location": "Chuuk",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$36158"
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/micronesia_workforce_hub__pohnpei.webp"
     },
-    "company_description": "Around exactly now month party. Sometimes unit fund let increase late its.",
-    "position_description": "Fine recent everyone prove off image guess will. Lead particularly reflect attorney local side trip side. Might standard good blood.",
-    "responsibilities": [
-      "Base must rate blue case middle.",
-      "Including can meeting defense.",
-      "Send baby sign marriage modern.",
-      "Allow again morning.",
-      "Born actually he determine trip keep ok policy."
-    ],
-    "requirements": [
-      "Kid move tend part need.",
-      "Seem of pressure interview establish father force.",
-      "Read way mention assume.",
-      "Might sound too low responsibility able rich economic."
-    ],
-    "logo": "logo_9.png"
-  },
-  {
-    "id": 10,
-    "title": "Pharmacist, community",
-    "date_posted": "2025-04-08",
-    "until": "2025-05-03",
-    "company": "Barnes, Schmidt and Webb",
-    "location": "Chuuk",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$17/hr"
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Elite",
+      "companyLogo": "logos/micronesia_workforce_hub__pohnpei.webp"
     },
-    "company_description": "Up we general I he government foot. Charge boy but. Ground Congress stuff account weight reduce film these.",
-    "position_description": "Anything type fly minute under serve item production. Feel paper sell sing sell because firm hair. Second speech white deal economy officer as. Catch available animal new beautiful.",
-    "responsibilities": [
-      "Some since pick see option reach where.",
-      "Pm as modern treatment.",
-      "Voice once manager send.",
-      "Evening old dog out opportunity money close.",
-      "Yeah total me coach."
-    ],
-    "requirements": [
-      "Indeed stock education.",
-      "Main somebody state.",
-      "Research push west.",
-      "Actually relationship appear sport Democrat oil current."
-    ],
-    "logo": "logo_10.png"
-  },
-  {
-    "id": 11,
-    "title": "Animator",
-    "date_posted": "2025-03-28",
-    "until": "2025-04-19",
-    "company": "Anderson-Smith",
-    "location": "Chuuk",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$12/hr"
+    {
+      "jobTitle": "Field Technician",
+      "company": "BlueWave Telecom - Chuuk",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "10.00",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/bluewave_telecom__chuuk.webp"
     },
-    "company_description": "Similar majority analysis return after respond collection option.",
-    "position_description": "Such baby weight away kitchen face modern. Feel direction win enjoy. Entire decision growth water voice.",
-    "responsibilities": [
-      "Activity step color better end try and.",
-      "Report side drive discuss pay discussion include.",
-      "Pm card evening recognize here position.",
-      "Chance interesting list why executive believe similar.",
-      "Evidence into early nor."
-    ],
-    "requirements": [
-      "New support rock place just.",
-      "The central deal food stand forget around pass.",
-      "Practice arrive focus second maintain strategy.",
-      "Total which thousand work answer both form."
-    ],
-    "logo": "logo_11.png"
-  },
-  {
-    "id": 12,
-    "title": "Engineer, structural",
-    "date_posted": "2025-04-07",
-    "until": "Until filled",
-    "company": "Bass and Sons",
-    "location": "Yap",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$33356"
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/micronesia_workforce_hub__yap.webp"
     },
-    "company_description": "Body state service prevent from value blue imagine. Source fall though idea line tree understand. Push class note.",
-    "position_description": "Style student after there commercial fire owner. Strategy structure available agreement field.",
-    "responsibilities": [
-      "Fine help course who tend pretty part popular.",
-      "Learn toward third only heart poor.",
-      "When far certain strong feel bit.",
-      "Police program people raise reveal model.",
-      "Daughter south thus sister toward condition determine consumer."
-    ],
-    "requirements": [
-      "Best amount cold scientist next common forget.",
-      "Nation too stage.",
-      "Party admit weight add current.",
-      "Group say me particularly few project last."
-    ],
-    "logo": "logo_12.png"
-  },
-  {
-    "id": 13,
-    "title": "Engineer, communications",
-    "date_posted": "2025-03-31",
-    "until": "2025-04-15",
-    "company": "Barnes, Schmidt and Webb",
-    "location": "Pohnpei",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$32210"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/techisland_solutions__yap.webp"
     },
-    "company_description": "Information woman analysis behavior. Table remember fact bank many result. Prevent group short mind natural possible cold.",
-    "position_description": "Prepare service age hundred occur job. Public young fear quite tree.",
-    "responsibilities": [
-      "Discussion what theory light party road.",
-      "Hair measure hope race.",
-      "System thing anything technology.",
-      "Start per guess.",
-      "Participant one down forward perhaps dinner small."
-    ],
-    "requirements": [
-      "Church sit look religious.",
-      "Including decade movement meet.",
-      "Represent final nation factor edge five.",
-      "Than responsibility charge beyond structure human degree anything."
-    ],
-    "logo": "logo_13.png"
-  },
-  {
-    "id": 14,
-    "title": "Designer, jewellery",
-    "date_posted": "2025-03-17",
-    "until": "Until filled",
-    "company": "Romero, Davis and Mcneil",
-    "location": "Pohnpei",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$31366"
+    {
+      "jobTitle": "Administrative Assistant",
+      "company": "Island Office Supplies - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Part Time",
+      "pay": "8.50",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Elite",
+      "companyLogo": "logos/island_office_supplies__pohnpei.webp"
     },
-    "company_description": "Worry sense factor activity cut environment involve. Many available present where process poor stop. Defense one soon.",
-    "position_description": "Modern office sit candidate these model few. Again difficult increase. Six language describe.",
-    "responsibilities": [
-      "Alone every future line teach market.",
-      "Rather quality network bar send read themselves me.",
-      "Left food but tonight concern every gun drop.",
-      "Until into start hit yes factor if.",
-      "Challenge mother develop wonder."
-    ],
-    "requirements": [
-      "Around everything scene view billion.",
-      "Section serious remain everything.",
-      "Particularly decision various detail per thought.",
-      "Run store apply answer card avoid none no."
-    ],
-    "logo": "logo_14.png"
-  },
-  {
-    "id": 15,
-    "title": "Radiation protection practitioner",
-    "date_posted": "2025-03-20",
-    "until": "2025-04-26",
-    "company": "Glover-Foster",
-    "location": "Pohnpei",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$21947"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Elite",
+      "companyLogo": "logos/techisland_solutions__yap.webp"
     },
-    "company_description": "White and similar role must your within. Star institution interview next. Gas member either.",
-    "position_description": "Series possible rest style population. Perform collection difficult start spring moment sister. Represent certain reflect exactly. Phone finally certain firm similar seven.",
-    "responsibilities": [
-      "Consumer such whole member loss thus day but.",
-      "Watch what evidence chair.",
-      "Resource attack room century.",
-      "Arrive seven bank network stage score son.",
-      "Single ball give indicate."
-    ],
-    "requirements": [
-      "Next century huge nation why.",
-      "Continue someone western matter kind quite.",
-      "Style hear bill plant show chance.",
-      "Research exactly Mr fish party."
-    ],
-    "logo": "logo_15.png"
-  },
-  {
-    "id": 16,
-    "title": "Metallurgist",
-    "date_posted": "2025-03-13",
-    "until": "Until filled",
-    "company": "Yoder Ltd",
-    "location": "Kosrae",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$34482"
+    {
+      "jobTitle": "Field Technician",
+      "company": "BlueWave Telecom - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "10.00",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/bluewave_telecom__yap.webp"
     },
-    "company_description": "Detail hot his word kitchen. House improve bad report again turn cost.",
-    "position_description": "Teacher poor individual better second. College include concern fall.",
-    "responsibilities": [
-      "Civil market others yet.",
-      "Mean far worry others scientist.",
-      "Property face agreement few if artist.",
-      "Star right contain church drive.",
-      "Success one west agree hear card go."
-    ],
-    "requirements": [
-      "Manager happy throughout put.",
-      "Well whole conference size situation experience garden.",
-      "Standard allow off and.",
-      "Evidence treat opportunity conference."
-    ],
-    "logo": "logo_16.png"
-  },
-  {
-    "id": 17,
-    "title": "Claims inspector/assessor",
-    "date_posted": "2025-04-08",
-    "until": "2025-05-04",
-    "company": "Carr-King",
-    "location": "Yap",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$41930"
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/micronesia_workforce_hub__yap.webp"
     },
-    "company_description": "Box performance next soon can week. Threat nearly art if. Rate finally reach shake even.",
-    "position_description": "Medical rise section wind. Theory there forget like southern. Score test people improve bring price hour. Material suffer parent food investment south. Democratic discover country hard hour could class.",
-    "responsibilities": [
-      "Prepare part everybody seat doctor company.",
-      "White safe finally someone federal grow sea.",
-      "State whatever change idea so wrong present.",
-      "Pressure set and ready operation water necessary although.",
-      "Particular true national already civil building create above."
-    ],
-    "requirements": [
-      "Teacher politics us forward respond some.",
-      "Family home stand media sell religious lose.",
-      "Agree indicate individual behavior.",
-      "Loss mission movement change better."
-    ],
-    "logo": "logo_17.png"
-  },
-  {
-    "id": 18,
-    "title": "Administrator, sports",
-    "date_posted": "2025-04-06",
-    "until": "Until filled",
-    "company": "Glover-Foster",
-    "location": "Chuuk",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$23464"
+    {
+      "jobTitle": "Field Technician",
+      "company": "BlueWave Telecom - Pohnpei",
+      "location": "Pohnpei",
+      "type": "Full Time",
+      "pay": "10.00",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/bluewave_telecom__pohnpei.webp"
     },
-    "company_description": "Accept team media. Phone sort age art.",
-    "position_description": "Food wait month beat which system. Leader production practice eat place. Increase my available risk indicate.",
-    "responsibilities": [
-      "Base president dinner city film after and.",
-      "Phone point never allow player.",
-      "Because then road act.",
-      "Price risk camera particularly a play.",
-      "Data body enter break."
-    ],
-    "requirements": [
-      "Appear brother job skin yourself small property.",
-      "Yet heart ten against life.",
-      "Others yes focus perform three wish wind music.",
-      "Dream often thus ahead all."
-    ],
-    "logo": "logo_18.png"
-  },
-  {
-    "id": 19,
-    "title": "Translator",
-    "date_posted": "2025-03-25",
-    "until": "2025-05-11",
-    "company": "Wood, Conrad and Wiley",
-    "location": "Chuuk",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$25/hr"
+    {
+      "jobTitle": "Administrative Assistant",
+      "company": "Island Office Supplies - Kosrae",
+      "location": "Kosrae",
+      "type": "Part Time",
+      "pay": "8.50",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/island_office_supplies__kosrae.webp"
     },
-    "company_description": "Instead production herself add. School process instead international thing. Speak loss region staff.",
-    "position_description": "Ahead team hear pass. Sport young nature whether. Bag chair interview late determine live. Listen nor work former.",
-    "responsibilities": [
-      "Game tax author.",
-      "Message little song understand everyone effort open research.",
-      "Under soon often bit.",
-      "Arrive common staff cup conference tough.",
-      "One more several them."
-    ],
-    "requirements": [
-      "Stand long matter our help center.",
-      "Information hit level suffer.",
-      "Girl modern poor.",
-      "Audience hot run environment air our."
-    ],
-    "logo": "logo_19.png"
-  },
-  {
-    "id": 20,
-    "title": "Associate Professor",
-    "date_posted": "2025-04-01",
-    "until": "2025-04-18",
-    "company": "Glover-Foster",
-    "location": "Pohnpei",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$12/hr"
+    {
+      "jobTitle": "Administrative Assistant",
+      "company": "Island Office Supplies - Yap",
+      "location": "Yap",
+      "type": "Part Time",
+      "pay": "8.50",
+      "payType": "hourly",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Elite",
+      "companyLogo": "logos/island_office_supplies__yap.webp"
     },
-    "company_description": "That put evidence. Tree station sort candidate after.",
-    "position_description": "Represent argue when yeah it. Sometimes bag clear situation. Behind where item sing suffer oil.",
-    "responsibilities": [
-      "Open fish religious go rate.",
-      "Sign region act actually guy save.",
-      "History industry develop away.",
-      "Seat institution you.",
-      "Culture give rock rather sometimes factor."
-    ],
-    "requirements": [
-      "Everybody ask with present staff now.",
-      "Ground soldier call democratic half do.",
-      "Course yes set laugh.",
-      "Tax hear area leave range policy third son."
-    ],
-    "logo": "logo_20.png"
-  },
-  {
-    "id": 21,
-    "title": "Engineer, manufacturing systems",
-    "date_posted": "2025-03-29",
-    "until": "Until filled",
-    "company": "Yoder Ltd",
-    "location": "Yap",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$24474"
+    {
+      "jobTitle": "Accountant",
+      "company": "Pacific Finance Co. - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "32000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/pacific_finance_co__yap.webp"
     },
-    "company_description": "Fine serve deep door family. Police meet break truth. Everything on business stand later much. About rule out loss fight student.",
-    "position_description": "Since physical quality fish realize result. Everything also few particular experience senior herself. Plan read item.",
-    "responsibilities": [
-      "Former truth his reality least point.",
-      "Former new street article life past different.",
-      "Involve anyone respond hospital leader mind law receive.",
-      "Hot mind six along among.",
-      "Take low practice her nice."
-    ],
-    "requirements": [
-      "Picture throughout imagine better partner act forget small.",
-      "Technology realize effort example trip.",
-      "Business trial dark eight surface lay own.",
-      "Get game responsibility nature."
-    ],
-    "logo": "logo_21.png"
-  },
-  {
-    "id": 22,
-    "title": "Engineer, land",
-    "date_posted": "2025-03-26",
-    "until": "Until filled",
-    "company": "Bass and Sons",
-    "location": "Kosrae",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$44490"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Kosrae",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/techisland_solutions__kosrae.webp"
     },
-    "company_description": "Town necessary history fish.",
-    "position_description": "Fire few political life plant. Usually trip music nature policy watch. Out spend visit cup project wife loss. Interest later hard garden road room some now.",
-    "responsibilities": [
-      "Little between appear cover.",
-      "Along feel everything information.",
-      "Generation box area fly of.",
-      "Could often take chance newspaper ability top woman.",
-      "Difficult value general."
-    ],
-    "requirements": [
-      "Herself professor during him write soldier class.",
-      "Nature order wall food many want back.",
-      "Him difficult enter order maintain capital similar.",
-      "Almost itself notice available hair quite."
-    ],
-    "logo": "logo_22.png"
-  },
-  {
-    "id": 23,
-    "title": "Product/process development scientist",
-    "date_posted": "2025-03-11",
-    "until": "2025-04-23",
-    "company": "Schaefer-Ingram",
-    "location": "Chuuk",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$16/hr"
+    {
+      "jobTitle": "Software Engineer",
+      "company": "TechIsland Solutions - Chuuk",
+      "location": "Chuuk",
+      "type": "Full Time",
+      "pay": "45000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "We specialize in building robust web platforms and scalable digital solutions for government and private sector clients across the FSM.",
+      "positionDescription": "As a Software Engineer, you\u2019ll develop full-stack applications that solve real problems for our community.",
+      "responsibilities": [
+        "Design, build, and maintain scalable web applications.",
+        "Collaborate with cross-functional teams to define features.",
+        "Troubleshoot and debug technical issues.",
+        "Write clean, maintainable code with documentation."
+      ],
+      "requirements": [
+        "Bachelor\u2019s degree in Computer Science or related field.",
+        "Experience with JavaScript frameworks (React, Node.js).",
+        "Knowledge of REST APIs and version control (Git).",
+        "Strong problem-solving skills and communication."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/techisland_solutions__chuuk.webp"
     },
-    "company_description": "Day stop appear public. Hot bag put church film space sell. Teach group force friend husband.",
-    "position_description": "A project expect although too become. Store same camera show on. Hard late student throw rate.",
-    "responsibilities": [
-      "Those call series expert fear early perhaps left.",
-      "Other discover Congress public fine door.",
-      "Summer quickly appear pass sing natural leader.",
-      "Tough ground report need.",
-      "Speak operation however art his."
-    ],
-    "requirements": [
-      "Tree cell wall mean weight baby.",
-      "Experience value anything keep guess executive cut.",
-      "Safe sometimes morning.",
-      "Career successful particularly."
-    ],
-    "logo": "logo_23.png"
-  },
-  {
-    "id": 24,
-    "title": "Manufacturing engineer",
-    "date_posted": "2025-03-13",
-    "until": "2025-04-30",
-    "company": "Phillips Ltd",
-    "location": "Chuuk",
-    "employment_type": "Part Time",
-    "pay": {
-      "type": "Annual",
-      "amount": "$27333"
+    {
+      "jobTitle": "Accountant",
+      "company": "Pacific Finance Co. - Kosrae",
+      "location": "Kosrae",
+      "type": "Full Time",
+      "pay": "32000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Premium",
+      "companyLogo": "logos/pacific_finance_co__kosrae.webp"
     },
-    "company_description": "Dog make Republican traditional will between surface. Glass risk daughter knowledge lawyer because. Series various theory plant experience clearly clearly position.",
-    "position_description": "Particular notice add never. About yeah however deal tax can table. Similar gun heavy according money team. Road fact mind.",
-    "responsibilities": [
-      "Performance then pull management whole me.",
-      "Network fly through reduce when.",
-      "Pressure then body both many concern.",
-      "Their number cause impact successful law past standard.",
-      "Child mention price space mention girl."
-    ],
-    "requirements": [
-      "Build which some policy board treat.",
-      "Among actually simply star anyone challenge role.",
-      "Tax kitchen cut central force.",
-      "Rate security painting hear star city product generation."
-    ],
-    "logo": "logo_24.png"
-  },
-  {
-    "id": 25,
-    "title": "Tourist information centre manager",
-    "date_posted": "2025-04-07",
-    "until": "Until filled",
-    "company": "Huber-Mcconnell",
-    "location": "Pohnpei",
-    "employment_type": "Full Time",
-    "pay": {
-      "type": "Hourly",
-      "amount": "$12/hr"
-    },
-    "company_description": "People early fish media memory glass.",
-    "position_description": "Create never song next of day. Off share goal sit wear college. Ago hospital charge along say. Goal play wear south.",
-    "responsibilities": [
-      "Face at believe prevent store.",
-      "All agency pass test.",
-      "Really present everything fast recent seem sea.",
-      "Change player among.",
-      "His sound organization himself purpose result."
-    ],
-    "requirements": [
-      "Present work myself physical present identify would.",
-      "Under their house summer another need capital school.",
-      "Half middle shake.",
-      "Company hope watch sometimes field modern."
-    ],
-    "logo": "logo_25.png"
-  }
-]
+    {
+      "jobTitle": "HR Coordinator",
+      "company": "Micronesia Workforce Hub - Yap",
+      "location": "Yap",
+      "type": "Full Time",
+      "pay": "28000",
+      "payType": "annual",
+      "datePosted": "2025-04-01",
+      "untilDate": "2025-05-01",
+      "companyDescription": "A community-first business focused on supporting local operations with smooth office management and clerical support.",
+      "positionDescription": "You\u2019ll assist in day-to-day office duties and support leadership in managing schedules, documents, and communication.",
+      "responsibilities": [
+        "Organize files and manage correspondence.",
+        "Schedule meetings and maintain calendars.",
+        "Support bookkeeping and reporting tasks.",
+        "Greet visitors and handle phone calls."
+      ],
+      "requirements": [
+        "High school diploma or equivalent.",
+        "Strong organizational and communication skills.",
+        "Familiarity with Microsoft Office or Google Workspace.",
+        "Ability to multitask and stay organized."
+      ],
+      "tier": "Basic",
+      "companyLogo": "logos/micronesia_workforce_hub__yap.webp"
+    }
+  ]
+}
