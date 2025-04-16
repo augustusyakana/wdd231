@@ -6,7 +6,7 @@ export async function getJobs() {
             const data = await res.json();
             return data.jobs;
         } else {
-            throw new Error(`HTTP error | status: ${res.status}`);
+            throw new Error(`error | status: ${res.status}`);
         }
     } catch (error) {
         console.error('Fetch failed:', error)
