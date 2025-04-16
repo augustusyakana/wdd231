@@ -6,6 +6,7 @@ let allJobs = [];
 
 document.addEventListener('DOMContentLoaded', async () => {
     const jobs = await getJobs();
+    console.log(jobs)
     allJobs = jobs;
     displayJobs(jobs, jobsContainer);
 })

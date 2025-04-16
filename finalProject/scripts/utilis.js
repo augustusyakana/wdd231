@@ -1,7 +1,16 @@
 export async function getJobs() {
-    const res = await fetch('./data/jobs.json');
-    const data = await res.json();
-    return data.jobs;
+    try {
+        const res = await fetch('./data/jobs.json');
+        if (res.ok) {
+
+            const data = await res.json();
+            return data.jobs;
+        } else {
+            throw new Error(`HTTP error | status: ${res.status}`);
+        }
+    } catch (error) {
+        console.error('Fetch failed:', error)
+    }
 }
 
 export const displayJobs = (jobs, container) => {
