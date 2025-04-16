@@ -6,3 +6,6 @@ hamMenu.addEventListener('click', () => {
     hamMenu.classList.toggle('active');
     offScreen.classList.toggle('active');
 })
+
+// Footer datetime functionality
+
