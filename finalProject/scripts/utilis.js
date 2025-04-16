@@ -9,7 +9,7 @@ export async function getJobs() {
             throw new Error(`error | status: ${res.status}`);
         }
     } catch (error) {
-        console.error('Fetch failed:', error)
+        console.error('Err:', error)
     }
 }
 
